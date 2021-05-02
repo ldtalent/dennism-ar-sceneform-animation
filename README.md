@@ -7,6 +7,7 @@
 <!-- wp:paragraph -->
 <p>Augmented reality (AR) serves as a bridge between humans and computers, allowing businesses to market their products more effectively. It's no surprise, then, that technology is growing in popularity every day.<br>AR, in particular, does not construct an artificial world; rather, it interacts with the current environment and adds functionality to it. AR's use of displaying digital 3D models in the real world through a mobile camera is one example.<br>Developing AR applications a few years ago meant learning OpenGL and complex vector math. In order to make AR development easier for developers, Google launched ARCore along with Sceneform SDK (for Android) in 2018.</p>
 <!-- /wp:paragraph -->
+
 # How to setup and run the application
  
 .Clone the repo on your local machine
