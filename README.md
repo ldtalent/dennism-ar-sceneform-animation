@@ -16,4 +16,6 @@
 
 .Open the project.
 
-.Run on android phone or android emulator and remember to Download the latest Google_Play_Services_for_AR_1.24.0_x86_for_emulator.apk from the GitHub releases page.
+.Run on android phone or android emulator 
+
+.remember to Download the latest Google_Play_Services_for_AR_apk from the official website https://developers.google.com/ar/develop/java/emulator#update-arcore.
